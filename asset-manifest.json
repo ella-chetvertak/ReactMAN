@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ReactMAN/static/css/main.6ba0b905.css",
-    "main.js": "/ReactMAN/static/js/main.2c9f1739.js",
+    "main.css": "/ReactMAN/static/css/main.cb858bad.css",
+    "main.js": "/ReactMAN/static/js/main.e90cec87.js",
     "static/js/787.0136b0a2.chunk.js": "/ReactMAN/static/js/787.0136b0a2.chunk.js",
     "static/media/arrow.svg": "/ReactMAN/static/media/arrow.6722e7abac9e30b021bb4af79228949c.svg",
     "index.html": "/ReactMAN/index.html",
     "static/media/lightTheme.svg": "/ReactMAN/static/media/lightTheme.7e99c517aa723adb7777d4d05e2c1b0d.svg",
     "static/media/darkTheme.svg": "/ReactMAN/static/media/darkTheme.aa0cfb26c6556d0864415d67a0892b55.svg",
-    "main.6ba0b905.css.map": "/ReactMAN/static/css/main.6ba0b905.css.map",
-    "main.2c9f1739.js.map": "/ReactMAN/static/js/main.2c9f1739.js.map",
+    "main.cb858bad.css.map": "/ReactMAN/static/css/main.cb858bad.css.map",
+    "main.e90cec87.js.map": "/ReactMAN/static/js/main.e90cec87.js.map",
     "787.0136b0a2.chunk.js.map": "/ReactMAN/static/js/787.0136b0a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ba0b905.css",
-    "static/js/main.2c9f1739.js"
+    "static/css/main.cb858bad.css",
+    "static/js/main.e90cec87.js"
   ]
 }
