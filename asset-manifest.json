@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactMAN/static/css/main.cb858bad.css",
-    "main.js": "/ReactMAN/static/js/main.e90cec87.js",
+    "main.css": "/ReactMAN/static/css/main.f0b8e79b.css",
+    "main.js": "/ReactMAN/static/js/main.bfd91f0e.js",
     "static/js/787.0136b0a2.chunk.js": "/ReactMAN/static/js/787.0136b0a2.chunk.js",
+    "static/media/howLooks.png": "/ReactMAN/static/media/howLooks.76fd6ec3cd04be81e2c9.png",
+    "static/media/howLooksBlank.png": "/ReactMAN/static/media/howLooksBlank.2ca99d58d5710c97266d.png",
+    "static/media/googleSheets.png": "/ReactMAN/static/media/googleSheets.52c66e184595ff0fe4ef.png",
+    "static/media/howToOpen.png": "/ReactMAN/static/media/howToOpen.b4430acccaa6230e39b4.png",
     "static/media/arrow.svg": "/ReactMAN/static/media/arrow.6722e7abac9e30b021bb4af79228949c.svg",
     "index.html": "/ReactMAN/index.html",
     "static/media/lightTheme.svg": "/ReactMAN/static/media/lightTheme.7e99c517aa723adb7777d4d05e2c1b0d.svg",
     "static/media/darkTheme.svg": "/ReactMAN/static/media/darkTheme.aa0cfb26c6556d0864415d67a0892b55.svg",
-    "main.cb858bad.css.map": "/ReactMAN/static/css/main.cb858bad.css.map",
-    "main.e90cec87.js.map": "/ReactMAN/static/js/main.e90cec87.js.map",
+    "main.f0b8e79b.css.map": "/ReactMAN/static/css/main.f0b8e79b.css.map",
+    "main.bfd91f0e.js.map": "/ReactMAN/static/js/main.bfd91f0e.js.map",
     "787.0136b0a2.chunk.js.map": "/ReactMAN/static/js/787.0136b0a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb858bad.css",
-    "static/js/main.e90cec87.js"
+    "static/css/main.f0b8e79b.css",
+    "static/js/main.bfd91f0e.js"
   ]
 }
