@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactMAN/static/css/main.0e268db4.css",
-    "main.js": "/ReactMAN/static/js/main.e4181fa6.js",
+    "main.css": "/ReactMAN/static/css/main.7d54c452.css",
+    "main.js": "/ReactMAN/static/js/main.27a9f088.js",
     "static/js/787.0136b0a2.chunk.js": "/ReactMAN/static/js/787.0136b0a2.chunk.js",
     "static/media/howLooksBlank.png": "/ReactMAN/static/media/howLooksBlank.4ba6153bc8640c3e18ec.png",
     "static/media/howLooks.png": "/ReactMAN/static/media/howLooks.76fd6ec3cd04be81e2c9.png",
@@ -10,17 +10,18 @@
     "static/media/howToOpen.png": "/ReactMAN/static/media/howToOpen.b4430acccaa6230e39b4.png",
     "static/media/cellsInfo.png": "/ReactMAN/static/media/cellsInfo.3f3d47190e944d97c7c7.png",
     "static/media/excelIcon.png": "/ReactMAN/static/media/excelIcon.fe2943b909690e08986c.png",
+    "static/media/fontInfo.png": "/ReactMAN/static/media/fontInfo.4dbac420fb8bedf83866.png",
     "static/media/powerpointIcon.png": "/ReactMAN/static/media/powerpointIcon.f72d89796f2df39fcb92.png",
     "index.html": "/ReactMAN/index.html",
     "static/media/arrow.svg": "/ReactMAN/static/media/arrow.6722e7abac9e30b021bb4af79228949c.svg",
     "static/media/lightTheme.svg": "/ReactMAN/static/media/lightTheme.7e99c517aa723adb7777d4d05e2c1b0d.svg",
     "static/media/darkTheme.svg": "/ReactMAN/static/media/darkTheme.aa0cfb26c6556d0864415d67a0892b55.svg",
-    "main.0e268db4.css.map": "/ReactMAN/static/css/main.0e268db4.css.map",
-    "main.e4181fa6.js.map": "/ReactMAN/static/js/main.e4181fa6.js.map",
+    "main.7d54c452.css.map": "/ReactMAN/static/css/main.7d54c452.css.map",
+    "main.27a9f088.js.map": "/ReactMAN/static/js/main.27a9f088.js.map",
     "787.0136b0a2.chunk.js.map": "/ReactMAN/static/js/787.0136b0a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e268db4.css",
-    "static/js/main.e4181fa6.js"
+    "static/css/main.7d54c452.css",
+    "static/js/main.27a9f088.js"
   ]
 }
